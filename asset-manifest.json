@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d23a5272.css",
-    "main.js": "/static/js/main.ab03f4fb.js",
-    "index.html": "/index.html",
-    "main.d23a5272.css.map": "/static/css/main.d23a5272.css.map",
-    "main.ab03f4fb.js.map": "/static/js/main.ab03f4fb.js.map"
+    "main.css": "/Aneal07/Crypto-Compass/static/css/main.d23a5272.css",
+    "main.js": "/Aneal07/Crypto-Compass/static/js/main.ab03f4fb.js",
+    "index.html": "/Aneal07/Crypto-Compass/index.html",
+    "main.d23a5272.css.map": "/Aneal07/Crypto-Compass/static/css/main.d23a5272.css.map",
+    "main.ab03f4fb.js.map": "/Aneal07/Crypto-Compass/static/js/main.ab03f4fb.js.map"
   },
   "entrypoints": [
     "static/css/main.d23a5272.css",
