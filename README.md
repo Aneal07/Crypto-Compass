@@ -1,6 +1,9 @@
 # Getting Started with Create React App
-Need to fix the funtionality.
-need to fix API Data aswell.
+Crypto-Compass is an application designed to provide comprehensive information about various cryptocurrencies, including their ranking and details. 
+![Screenshot](./images/1.png)
+![Screenshot](./images/2.png)
+![Screenshot](./images/3.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
