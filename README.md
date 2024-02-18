@@ -1,4 +1,4 @@
-##Homepage route is missing.
+##incomplete.
 
 # Getting Started with Create React App
 Crypto-Compass is an application designed to provide comprehensive information about various cryptocurrencies, including their ranking and details. 
